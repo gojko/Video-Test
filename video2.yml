@@ -2,5 +2,3 @@
 resourceDir: resources
 scenes:
   - video: Living Doc.mp4    
-    narration: The new version of LivingDoc allows you to define a default language for your builds. Previously, English was the default language used to parse feature files. Select your  project language in the build step from the drop-down list. 
-    
