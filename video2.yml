@@ -2,11 +2,11 @@
 resourceDir: resources
 scenes:
   - video: Living Doc.mp4    
-    narration: The new version of LivingDoc allows you to define a default language for your builds. Previously,  English was the default language used to parse feature files.
+    narration: The new version of LivingDoc allows you to define a default language for your builds. Previously, English was the default language used to parse feature files.
     
-    narration: Select your  project language in the build step from the drop-down list
+    Select your  project language in the build step from the drop-down list
     
-    narration: Furthermore, the list of builds has been improved. The list now only includes those builds that include the SpecFlow Plus build step, and the entries are now sorted alphabetically. This is a real time-saver in cases where you have a lot of builds.
+    Furthermore, the list of builds has been improved. The list now only includes those builds that include the SpecFlow Plus build step, and the entries are now sorted alphabetically. This is a real time-saver in cases where you have a lot of builds.
     
-    narration: And as you can see, our German language feature files have been parsed correctly!
-    duration: 11
+    And as you can see, our German language feature files have been parsed correctly!
+    
