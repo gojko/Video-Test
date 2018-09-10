@@ -9,9 +9,9 @@ scenes:
   - image: 2.png
     narration: This is the secondnarration
     duration: 5
-    - image: 3.png
+  - image: 3.png
     narration: More stuff
     duration: 1
-    - image: 4.png
+  - image: 4.png
     narration: Hello everyone this is it
     duration: 11
