@@ -1,0 +1,17 @@
+﻿size: 720p
+resourceDir: resources
+scenes:
+  - slide: Show builds
+    duration: 10
+  - image: 1.png
+    narration: This is the narration
+    duration: 10
+  - image: 2.png
+    narration: This is the secondnarration
+    duration: 5
+    - image: 3.png
+    narration: More stuff
+    duration: 1
+    - image: 4.png
+    narration: Hello everyone this is it
+    duration: 11
